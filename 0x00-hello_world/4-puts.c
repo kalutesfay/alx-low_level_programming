@@ -1,9 +1,10 @@
 #include <stdio.h>
-int main(void)
 /**
- *main - entry point
- *return: always 0 (sucess)
+ *main - Prints string
+ *Description: Prints "/"Programming is like building a multilingual puzzle"
+ *return: 0
  */
+int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
