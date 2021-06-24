@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main(void)
 /**
- *puts - print out the given text while adding a new line
- *return - ends the execution of the function
+ *main - entry point
+ *return: always 0 (sucess)
  */
 {
 	puts("\"Programming is like building a multilingual puzzle");
