@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Prints string
- * Description: Prints the given text
- * return: 0
+ * main - prints string
+ * Description: Prints "with proper grammer, but the outcomeis a piece of art\n,"
+ * Return: 0
  */
 int main(void)
 {
